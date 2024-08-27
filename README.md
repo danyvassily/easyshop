@@ -59,7 +59,7 @@ La page  panier
 ### Page de confirmation
 
 La page de confirmation affiche le numéro de commande après la validation de la commande.
-ermet aux utilisateurs de voir les articles ajoutés, de modifier les quantités ou de supprimer des articles.
+permet aux utilisateurs de voir les articles ajoutés, de modifier les quantités ou de supprimer des articles.
 
 
 
