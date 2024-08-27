@@ -62,33 +62,5 @@ La page de confirmation affiche le numéro de commande après la validation de l
 ermet aux utilisateurs de voir les articles ajoutés, de modifier les quantités ou de supprimer des articles.
 
 
-## Structure du Projet
-
-Voici un aperçu de la structure des fichiers et des répertoires du projet :
-
-
-├── front/
-│ ├── css/
-│ │ ├── style.css
-│ │ ├── product.css
-│ │ ├── cart.css
-│ │ └── confirmation.css
-│ ├── html/
-│ │ ├── index.html
-│ │ ├── product.html
-│ │ ├── cart.html
-│ │ └── confirmation.html
-│ ├── images/
-│ │ └── icons/
-│ │ ├── phone.svg
-│ │ ├── mail.svg
-│ │ └── adress.svg
-│ └── js/
-│ ├── script.js
-│ ├── product.js
-│ ├── cart.js
-│ └── confirmation.js
-└── README.md
-
 
 
