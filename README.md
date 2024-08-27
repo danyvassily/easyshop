@@ -47,14 +47,14 @@ Pour installer et exécuter ce projet localement, suivez les étapes ci-dessous 
 
 La page d'accueil affiche une liste de produits disponibles. Chaque produit est présenté avec une image, un nom, une description et un prix.
 
-### Page de produit
+### Page produit
 
 La page de produit affiche les détails d'un produit sélectionné, y compris les options de couleur et de quantité.
 
 
-### Page de panier
+### Page  panier
 
-La page de panier p
+La page  panier 
 
 ### Page de confirmation
 
